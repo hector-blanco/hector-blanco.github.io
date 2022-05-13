@@ -1,5 +1,5 @@
 ---
-title: "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations"
+title: "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations \[Job Market paper\]"
 collection: wp
 permalink: /wp/2021-11-05-LondonReg
 excerpt: ''
@@ -13,4 +13,4 @@ citation: 'Blanco, Hector and Neri, Lorenzo (2021). &quot; Knocking it Down and 
 
 [Download paper here](http://hector-blanco.github.io/files/20211105_Blanco_JMP.pdf)
 
-Recommended citation: Blanco, Hector and Neri, Lorenzo (2021). &quot; Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations &quot;, <i>Job Market Paper</i>
+Recommended citation: Blanco, Hector and Neri, Lorenzo (2021). &quot; Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations &quot;, <i>Working Paper</i>
