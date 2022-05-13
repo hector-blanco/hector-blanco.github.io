@@ -12,10 +12,4 @@ Hello! I am a PhD candidate in Economics at MIT. My areas of interest are public
 
 In June 2022, I will join the Furman Center at New York University as a postdoctoral research fellow.
 
-You can contact me at [hblanco@mit.edu](mailto:hblanco@mit.edu)
-
-
-# url links: [GitHub pages](https://pages.github.com)
-
-# A data-driven personal website
-# ======
+You can contact me at [hblanco@mit.edu](mailto:hblanco@mit.edu).
