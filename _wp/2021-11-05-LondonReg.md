@@ -1,5 +1,5 @@
 ---
-title: "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations \[Job Market paper\]"
+title: "Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations (Job Market Paper)"
 collection: wp
 permalink: /wp/2021-11-05-LondonReg
 excerpt: ''
