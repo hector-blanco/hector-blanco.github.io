@@ -31,13 +31,13 @@ Service
 ------
 * Referee: *American Economic Review: Insights*, *Journal of Public Economics*
 * Organizer: MIT Public Finance Lunch (2019-2020)
-  
+<!---  
 Teaching
 ------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->  
 Other relevant positions
 ------
 * 2018-2019: Research Assistant
