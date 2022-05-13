@@ -9,44 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](/files/20220512_Blanco_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, MIT, 2022 (expected)
+* M.S. in Economics, Barcelona Graduate School of Economics, 2016
+* B.S. in Economics, Universitat Pompeu Fabra, 2015
+* B.S. in Laws, Universitat Pompeu Fabra, 2013
 
-Work experience
+Fellowships, honors and awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jerry A. Hausman Dissertation Fellowship, MIT, 2020-2021
+* George and Obie Shultz Fund, Research grant, MIT, 2019-2021
+* MIT Fellowship, 2016-2018
+* La Caixa Foundation Graduate Fellowship, 2016-2018
+* Catalunya-La Pedrera Foundation Graduate Fellowship, 2015
+* Collaboration Fellowship, Spanish Ministry of Education, 2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Referee: *American Economic Review: Insights*, *Journal of Public Economics*
+* Organizer: MIT Public Finance Lunch (2019-2020)
   
 Teaching
 ======
@@ -54,6 +38,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other relevant positions
 ======
-* Currently signed in to 43 different slack teams
+* 2018-2019: Research Assistant
+  * MIT-NBER
+  * Supervisor: Michael Whinston
+
+* 2017-2018: Research Assistant
+  * MIT-NBER
+  * Supervisor: Robert Townsend
+  
