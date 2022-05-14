@@ -22,6 +22,7 @@ Education
 
 Fellowships, honors and awards
 ------
+* IV Nada es Gratis Job Market Paper Award, 2022 
 * Jerry A. Hausman Dissertation Fellowship, MIT, 2020-2021
 * George and Obie Shultz Fund, Research grant, MIT, 2019-2021
 * MIT Fellowship, 2016-2018
