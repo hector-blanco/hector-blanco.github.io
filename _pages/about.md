@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Economics at MIT. My areas of interest are public economics and urban economics. My current research focuses on how affordable housing policies shape neighborhoods and the lives of their residents. 
-
-In June 2022, I will join the Furman Center at New York University as a postdoctoral research fellow. In summer 2023, I will join the Department of Economics at Rutgers University as an Assistant Professor. 
+Hello! I am a postdoctoral research fellow at NYU Furman Center. My areas of interest are public economics and urban economics. My current research focuses on how affordable housing policies shape neighborhoods and the lives of their residents. 
 
 <!--- 
-I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in both Economics and Laws from Universitat Pompeu Fabra in 2015. 
+I obtained my PhD in Economics at MIT in 2022. Previously, I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in Economics and Laws from Universitat Pompeu Fabra in 2015. 
 --->
 
-You can contact me at [hblanco@mit.edu](mailto:hblanco@mit.edu).
+In summer 2023, I will join the Department of Economics at Rutgers University as an Assistant Professor. 
+
+You can contact me at [hector.blanco@nyu.edu](mailto:hector.blanco@nyu.edu).
