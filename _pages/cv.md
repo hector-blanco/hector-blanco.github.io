@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Economics, MIT, 2022 (expected)
+* Ph.D in Economics, MIT, 2022
   * *Dissertation title*: &quot;The Economic Effects of Public Housing Programs&quot;
   * *Advisors*: Amy Finkelstein, James Poterba, Rebecca Diamond
 * M.S. in Economics, Barcelona Graduate School of Economics, 2016
