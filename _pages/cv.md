@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](/files/20220624_Blanco_CV.pdf)
+[Download CV here](/files/20220707_Blanco_CV.pdf)
 
 Education
 ------
