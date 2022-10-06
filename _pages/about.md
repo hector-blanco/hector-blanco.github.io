@@ -15,3 +15,5 @@ I graduated with a PhD in Economics from MIT in 2022. Previously, I earned a M.S
 In summer 2023, I will join the Department of Economics at Rutgers University as an Assistant Professor. 
 
 You can contact me at [hector.blanco@nyu.edu](mailto:hector.blanco@nyu.edu).
+
+You can download my CV [here](/files/20220806_Blanco_CV.pdf)
