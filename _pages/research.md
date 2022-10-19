@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
+***Working Papers***
 ------
 
 &quot;**Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations**&quot; (Job Market Paper) <br > *joint with [Lorenzo Neri](https://lneri.weebly.com/)* - \[[Link to paper](/files/20211105_Blanco_JMP.pdf)\]
