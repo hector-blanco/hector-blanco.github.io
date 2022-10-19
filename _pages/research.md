@@ -25,7 +25,7 @@ This paper studies the effects of public housing on private house prices. I exam
 </details>
 
 
-Work in Progress
+***Work in Progress***
 ------
 &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* 
 <details> 
