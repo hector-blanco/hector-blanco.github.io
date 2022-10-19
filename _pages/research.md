@@ -17,7 +17,6 @@ This paper studies the effects of regenerating public housing into mixed-income 
 </details>
 
 <br >
-<br >
 
 &quot;**Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago**&quot; <br > *Regional Science and Urban Economics*, accepted - \[[Link to paper](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] 
 <details> 
