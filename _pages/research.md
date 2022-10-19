@@ -17,9 +17,16 @@ Working Papers
 
 Work in Progress
 ------
-* &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > **Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
+* &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > 
+<details open> 
+<summary>**Abstract**</summary>
+**Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
+<br>
+</details>
 
 <!--
+* &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > **Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
+
 * &quot;**The Impact of Fair Share Housing Policies on Health and Opportunity: Evidence from Massachusetts' Chapter 40B**&quot; <br > *joint with [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David Cutler](https://scholar.harvard.edu/cutler/home), [Madeleine Daepp](http://www.madeleinedaepp.com/), and Erin Graves*
 * &quot;**The Impact of New Mixed-Income Housing on NIMBYism: Housing Values, Migration, and Political Participation**&quot; <br > *joint with [Noémie Sportiche](https://noemiesportiche.netlify.app/)*
 * &quot;**Price Responses to Affordable Housing under Mandatory Inclusionary Zoning**&quot; <br > *joint with [Lorenzo Neri](https://lneri.weebly.com/)*
