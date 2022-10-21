@@ -16,7 +16,7 @@ author_profile: true
 
 ***Work in Progress***
 ------
-<p style="line-height: 0.5;">
+<p style="line-height: 0.5rem;">
   
 *Redistribution through Housing Assistance* (with [Juliette Fournier](https://juliettefournier.site/)) 
  <details  style="font-size: 0.8rem">
@@ -24,7 +24,7 @@ author_profile: true
 </details>
 </p>
 
-The Local Effects of Bypassing Zoning Regulations in High-Income Areas* (with [Noémie Sportiche](https://noemiesportiche.netlify.app/))
+*The Local Effects of Bypassing Zoning Regulations in High-Income Areas* (with [Noémie Sportiche](https://noemiesportiche.netlify.app/))
 
 <!--
 * &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > **Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
