@@ -16,7 +16,7 @@ author_profile: true
 
 ***Work in Progress***
 ------
-<p style="line-height: 0.5em;">
+<p style="line-height: 25%;">
   
 *Redistribution through Housing Assistance* (with [Juliette Fournier](https://juliettefournier.site/)) 
  <details  style="font-size: 0.8rem">
