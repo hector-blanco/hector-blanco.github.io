@@ -20,7 +20,7 @@
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
-	-moz-osx-font-smoothing:grayscale;
+	-moz-osx-font-smoothing:grayscale; 
 }
 .ai-academia:before {
   content: "\e800";
