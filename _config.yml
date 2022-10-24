@@ -5,8 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Site Settings
-theme                    : minimal
 locale                   : "en-US"
 title                    : "Hector Blanco"
 title_separator          : "-"
