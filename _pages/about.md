@@ -20,4 +20,4 @@ In summer 2023, I will join the Department of Economics at Rutgers University as
 You can contact me at [hector.blanco@nyu.edu](mailto:hector.blanco@nyu.edu).
 <br>
 <br>
-You can download my CV [here](/files/20230519_Blanco_CV.pdf).
+You can download my CV [here](/files/Blanco_CV.pdf).
