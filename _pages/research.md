@@ -15,7 +15,7 @@ author_profile: true
 **Publications**
 ------
 
-*Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago*. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](files/20220513_Paper_Demolitions.pdf)\] <br>
+*Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago*. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
 <sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
 
 **Work in Progress**
