@@ -7,13 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching Assistant
+<--! Teaching Assistant
 ------
-* MIT
+-->
+* Rutgers University (undergrad)
+  * 322 Econometrics, 2023-
+* MIT, Teaching Assistant (undergrad)
   * 14.13 Psychology and Economics (Prof. Frank Schilbach), 2022
   * 14.01 Introduction to Microeconomics (Prof. Sara Ellison), 2020
   * 14.73 The Challenge of World Poverty (Profs. D. Atkin, E. Duflo, F. Schilbach), 2019
   * 14.01 Introduction to Microeconomics (Prof. Jon Gruber), 2018
-* Universitat Pompeu Fabra
+* Universitat Pompeu Fabra, Teaching Assistant (undergrad)
   * Advanced Macroeconomics II (Prof. Jordi Galí), 2016
   * International Economics I (Prof. Alessandra Bonfiglioli), 2016
