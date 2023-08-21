@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<! Teaching Assistant
+<!-- Teaching Assistant
 ------ -->
 * Rutgers University (undergrad)
   * 322 Econometrics, 2023-
