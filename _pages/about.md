@@ -8,29 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral research fellow at NYU Furman Center. My areas of interest are public economics and urban economics. My current research focuses on how affordable housing policies shape neighborhoods and the lives of their residents. 
+Hello! I am an Assistant Professor in the Department of Economics at Rutgers University. My areas of interest are public economics and urban economics, with a special focus on housing. My current research studies how affordable housing policies shape neighborhoods and the lives of their residents. 
 <br>
 <br>
-I graduated with a PhD in Economics from MIT in 2022. Previously, I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in Economics and Laws from Universitat Pompeu Fabra in 2015. 
+Previously, I was a Postdoctoral Research Fellow at NYU Furman Center. I graduated with a PhD in Economics from MIT in 2022.
 <br>
 <br>
-In summer 2023, I will join the Department of Economics at Rutgers University as an Assistant Professor. 
-<br>
-<br>
-You can contact me at [hector.blanco@nyu.edu](mailto:hector.blanco@nyu.edu).
+You can contact me at [hector.blanco@rutgers.edu](mailto:hector.blanco@rutgers.edu).
 <br>
 <br>
 You can download my CV [here](/files/Blanco_CV.pdf).
 
 <!--
-Hello! I am an Assistant Professor in the Department of Economics at Rutgers University. My areas of interest are public economics and urban economics, with a special focus on housing. My current research studies how affordable housing policies shape neighborhoods and the lives of their residents. 
-<br>
-<br>
-I graduated with a PhD in Economics from MIT in 2022 and I was a Postdoctoral Research Fellow at NYU Furman Center in 2022-2023. Previously, I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in Economics and Laws from Universitat Pompeu Fabra in 2015. 
-<br>
-<br>
-You can contact me at [hector.blanco@nyu.edu](mailto:hector.blanco@nyu.edu).
-<br>
-<br>
-You can download my CV [here](/files/Blanco_CV.pdf).
+I earned a M.S. in Economics from the Barcelona School of Economics in 2016 and a B.S. in Economics and Laws from Universitat Pompeu Fabra in 2015. 
 -->
