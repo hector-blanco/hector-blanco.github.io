@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hector Blanco"
   avatar           : "headshot3.jpg"
-  bio              : "Postdoctoral research fellow, NYU Furman Center"
-  location         : "New York City, NY"
+  bio              : "Assistant Professor, Rutgers University"
+  location         : "New Brunswick, NJ"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZN1MLIUAAAAJ&hl=en"
-  email            : "hector.blanco@nyu.edu"
+  email            : "hector.blanco@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
