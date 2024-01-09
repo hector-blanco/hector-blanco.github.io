@@ -7,10 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Teaching Assistant
------- -->
-* Rutgers University (undergraduate)
-  * 322 Econometrics, 2023-
+Rutgers University 
+---------------	
+* 624 Public Finance (graduate), Spring 2024
+* 322 Econometrics (undergraduate), Fall 2023
+ 
+Prior Experience as Teaching Assistant
+---------------	
 * MIT, Teaching Assistant (undergraduate)
   * 14.13 Psychology and Economics (Prof. Frank Schilbach), 2022
   * 14.01 Introduction to Microeconomics (Prof. Sara Ellison), 2020
