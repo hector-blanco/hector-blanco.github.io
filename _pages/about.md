@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor in the Department of Economics at Rutgers University. My areas of interest are public economics and urban economics, with a special focus on housing. My current research studies how affordable housing policies shape neighborhoods and the lives of their residents. 
+Hello! I am an Assistant Professor in the Department of Economics at Rutgers University. I am also a Research Affiliate at NYU's Furman Center. My areas of interest are public economics and urban economics, with a special focus on housing. My current research studies how affordable housing policies shape neighborhoods and the lives of their residents. 
 <br>
 <br>
 Previously, I was a Postdoctoral Research Fellow at NYU Furman Center. I graduated with a PhD in Economics from MIT in 2022.
