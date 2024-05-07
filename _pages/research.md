@@ -33,7 +33,7 @@ Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago. **Region
 Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)
 <br>
 <br>
-Redistribution through Housing Assistance, with [Juliette Fournier](https://juliettefournier.site/)  
+Redistribution through Housing Assistance, with [Juliette Fournier](https://juliettefournier.site/)
 <br>
 <br>
 Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)
