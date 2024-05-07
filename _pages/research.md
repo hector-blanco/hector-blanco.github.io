@@ -12,10 +12,18 @@ Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations, w
 <br>
 Local Effects of Bypassing Zoning Regulations in High-Income Areas, with [Noémie Sportiche](https://noemiesportiche.netlify.app/) [Draft available upon request]  <br> <sub>An increasing number of state and local governments are passing regulations to allow for denser housing in high-income areas. This paper examines how local house prices and existing residents –who are often strongly opposed to these policies– react to this new construction. We focus on housing constructed under Chapter 40B, a Massachusetts state policy that requires all municipalities to maintain a minimum proportion of affordable housing and allows developers to bypass local zoning regulations if those minimums are not met. Using a difference-in-differences design that compares housing located near 40B developments to housing located slightly farther away paired with rich individual-level data, we find that larger 40B developments lead to long-run decreases in nearby house prices, while smaller developments do not affect prices. Our results further show that nearby residents respond by moving out at higher rates after large 40B developments are constructed, though we do not observe significant changes in existing residents’ political participation at the state or federal level. Overall, we do not find strong evidence that such responses can substantially undermine the policy’s goal of reducing economic segregation.</sub>
 
+<br>
+<br>
+Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, with [Jaehee Song](https://www.jaeheesong.com/) \[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4819763)\] <br> <sub>The Housing Choice Voucher program offers generous subsidies to low-income households for renting housing in the private market in the United States. However, only a fraction of program recipients successfully lease up a housing unit, often staying in high-poverty areas. This paper examines an important contributor to low lease-up rates especially in low-poverty areas: landlord discrimination against voucher holders. Using the universe of Craigslist rental listings, we identify listings containing voucher-related keywords and analyze their attitude toward voucher holders. Among these listings, we find that many landlords seek out voucher holders in high-poverty, high-minority areas, but discriminatory listings are more frequent in low-poverty, low-minority areas. Using a difference-in-differences design, we provide evidence that statewide legislation prohibiting source-of-income discrimination can significantly reduce discriminatory rental listings, particularly in low-poverty, low-minority areas.</sub>
+
 **Publications**
 ------
 
-Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
+Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with N. Sportiche, D. M. Cutler, M. Daepp, and E. M. Graves) *Accepted, Housing Polict Debate*
+
+<br>
+Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] 
+
 <sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/) </sub>
 
 **Work in Progress**
@@ -34,6 +42,9 @@ Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https:
 <br>
 <br>
 Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](https://www.lucaperdoni.com/)
+<br>
+<br>
+The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with N. Sportiche and D. M. Cutler) *Awarded Russell Sage Foundation Grant*
 
 <!--
 * &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > **Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
