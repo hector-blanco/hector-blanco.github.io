@@ -18,7 +18,8 @@ Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, w
 **Publications**
 ------
 
-Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with [N. Sportiche](https://noemiesportiche.netlify.app/), [D. M. Cutler](https://scholar.harvard.edu/cutler/home), [M. Daepp](http://www.madeleinedaepp.com/), and E. M. Graves). **Housing Policy Debate**, 2024 \[[Link](https://www.tandfonline.com/doi/full/10.1080/10511482.2024.2320131)\]
+Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with [N. Sportiche](https://noemiesportiche.netlify.app/), [D. M. Cutler](https://scholar.harvard.edu/cutler/home), [M. Daepp](http://www.madeleinedaepp.com/), and E. M. Graves). **Housing Policy Debate**, 2024 \[[Link](https://www.tandfonline.com/doi/full/10.1080/10511482.2024.2320131)\] <br>
+<sub> Coverage: [NLIHC](https://nlihc.org/resource/study-reveals-massachusettss-fair-share-housing-policy-counteracts-local-zoning) </sub>
 <br>
 <br>
 Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago. **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
