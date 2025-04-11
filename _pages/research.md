@@ -13,14 +13,14 @@ Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, w
 
 **Publications**
 ------
-Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \[[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159297)\], **Review of Economics and Statistics**, Accepted <br> <sub> Coverage: [GLA Housing](https://www.london.gov.uk/media/102314/download), [Nada Es Gratis](https://nadaesgratis.es/admin/son-los-edificios-de-renta-mixta-la-solucion-a-los-problemas-de-la-vivienda-publica) </sub> 
+Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \[[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159297)\], *Review of Economics and Statistics*, Accepted <br> <sub> Coverage: [GLA Housing](https://www.london.gov.uk/media/102314/download), [Nada Es Gratis](https://nadaesgratis.es/admin/son-los-edificios-de-renta-mixta-la-solucion-a-los-problemas-de-la-vivienda-publica) </sub> 
 <br>
 <br>
-Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with [N. Sportiche](https://noemiesportiche.netlify.app/), [D. M. Cutler](https://scholar.harvard.edu/cutler/home), [M. Daepp](http://www.madeleinedaepp.com/), and E. M. Graves), **Housing Policy Debate**, 2024 \[[Link](https://www.tandfonline.com/doi/full/10.1080/10511482.2024.2320131)\] <br>
+Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with [N. Sportiche](https://noemiesportiche.netlify.app/), [D. M. Cutler](https://scholar.harvard.edu/cutler/home), [M. Daepp](http://www.madeleinedaepp.com/), and E. M. Graves), *Housing Policy Debate*, 2024 \[[Link](https://www.tandfonline.com/doi/full/10.1080/10511482.2024.2320131)\] <br>
 <sub> Coverage: [NLIHC](https://nlihc.org/resource/study-reveals-massachusettss-fair-share-housing-policy-counteracts-local-zoning) </sub>
 <br>
 <br>
-Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, **Regional Science and Urban Economics** 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
+Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, *Regional Science and Urban Economics* 98, 2023 \[[Link](https://www.sciencedirect.com/science/article/pii/S0166046222000850)\] \[[Ungated version](../files/20220513_Paper_Demolitions.pdf)\] <br>
 <sub> Coverage: [Building the Skyline](https://buildingtheskyline.org/supply-and-rents/), [5centims](https://www.5centims.cat/limpacte-de-lhabitatge-public-als-barris/) </sub>
 
 **Work in Progress**
