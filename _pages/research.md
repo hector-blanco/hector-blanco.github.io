@@ -12,6 +12,7 @@ Local Effects of Bypassing Zoning Regulations, with [Noémie Sportiche](https://
 -->
 
 <br>
+
 Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, with [Jaehee Song](https://www.jaeheesong.com/) \[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4819763)\] 
 <!--
 <br> <sub>The Housing Choice Voucher program provides substantial rental subsidies to low-income households, yet many recipients struggle to secure housing with their vouchers, particularly in low-poverty areas. This paper examines a key bottleneck in the program: landlord discrimination against voucher holders. Using a nationwide dataset from a major online rental platform, we identify listings that explicitly seek or reject voucher holders. We find significant variation across metropolitan areas, with voucher-seeking listings ranging from nearly zero to 18 percent and voucher-rejecting listings ranging from nearly zero to 28 percent. Within metros, landlords in high-poverty neighborhoods with larger Black and voucher populations are more likely to seek voucher holders, while rejection of voucher holders is relatively more common in low-poverty neighborhoods. Using a difference-in-differences design, we provide causal evidence that statewide prohibitions on source-of-income discrimination significantly reduce explicit rejection of vouchers. This reduction is particularly pronounced in low-poverty neighborhoods and can eliminate cross-neighborhood disparities in discriminatory behavior.</sub>
