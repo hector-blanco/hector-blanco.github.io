@@ -36,9 +36,9 @@ Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, *Regiona
 <details> <summary> <i>Local Effects of Bypassing Zoning Regulations in High-Income Areas</i>, with <a href="[https://Example.com](https://noemiesportiche.netlify.app/)"><mark class="color:blue;">Noémie Sportiche</p></mark> </summary> <sub> An increasing number of jurisdictions are passing regulations to allow for denser housing in high-income areas. This paper examines how local house prices and existing residents -who are often strongly opposed to these policies- react to this new construction. We focus on housing constructed under Chapter 40B, a Massachusetts state policy that requires all municipalities to maintain a minimum proportion of affordable housing and allows developers to bypass local zoning regulations if those minimums are not met. Using a difference-in-differences design that compares housing located near 40B developments to housing located slightly farther away paired with rich individual-level data, we provide two sets of results. First, large 40B developments lead to substantial decreases in nearby house prices, while smaller developments do not affect prices. Second, nearby residents respond by moving out at higher rates after large 40B developments are constructed, although we do not observe significant changes in existing residents’ political participation at the state or federal level. </sub> </details>
 -->
 
-<p>Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)</p>
-<p>Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](https://www.lucaperdoni.com/)</p>
-Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \
+Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \ \
+Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](https://www.lucaperdoni.com/) \ \
+Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \ \
 The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Noémie Sportiche](https://noemiesportiche.netlify.app/) and [David M. Cutler](https://scholar.harvard.edu/cutler/home)) \
 <sub> *Awarded Russell Sage Foundation Grant* </sub>
 
