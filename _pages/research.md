@@ -61,4 +61,4 @@ Redistribution through Housing Assistance, with [Juliette Fournier](https://juli
 **Policy Work/Other Writing**
 ------
 
-The Impact of Public Housing on Neighborhoods: Lessons from the United States and the United Kingdom, [*IEB Report 4/2024*](https://ieb.ub.edu/en/publication/ieb-report-4-2024-el-problema-del-precio-del-alquiler-que-se-puede-hacer/), "What Can We Do to Make Rentals More Affordable?" 
+The Impact of Public Housing on Neighborhoods: Lessons from the United States and the United Kingdom, [*IEB Report 4/2024: "What Can We Do to Make Rentals More Affordable?"*](https://ieb.ub.edu/en/publication/ieb-report-4-2024-el-problema-del-precio-del-alquiler-que-se-puede-hacer/) 
