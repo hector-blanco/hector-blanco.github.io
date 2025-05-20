@@ -56,5 +56,9 @@ Redistribution through Housing Assistance, with [Juliette Fournier](https://juli
 * &quot;**Redistribution through Housing Assistance**&quot; <br > *joint with [Juliette Fournier](https://juliettefournier.site/)* <br > **Abstract**: We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up.
 
 Redistribution through Housing Assistance, with [Juliette Fournier](https://juliettefournier.site/)  <br> <sub>We examine the distributional implications of the shift from public housing to subsidized private housing initiated by the U.S. government over the past few decades. We build a quantitative urban framework where housing assistance complements income taxation to redistribute across workers. We argue that provision of affordable housing involves a trade-off between indirect pecuniary redistribution and direct amenity spin-offs. On the one hand, public housing drives local rents down, while amplifying the spatial concentration of poverty. On the other hand, project- and tenant-based rental assistance enhances the local amenities of subsidized households by promoting mixed-income communities, but pushes private landowners’ rents up. </sub>
-
 -->
+
+**Policy Work/Other Writing**
+------
+
+The Impact of Public Housing on Neighborhoods: Lessons from the United States and the United Kingdom, *IEB Report 4/2024*, "What Can We Do to  Make Rentals More Affordable?" 
