@@ -38,12 +38,9 @@ Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, *Regiona
 
 Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)
 <br>
-<br>
 Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](https://www.lucaperdoni.com/)
 <br>
-<br>
 Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)
-<br>
 <br>
 The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Noémie Sportiche](https://noemiesportiche.netlify.app/) and [David M. Cutler](https://scholar.harvard.edu/cutler/home)) 
 <br>
