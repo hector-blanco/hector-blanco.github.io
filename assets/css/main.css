@@ -8,10 +8,10 @@ body {
 
 .container {
   display: flex;
-  align-items: flex-start;
-  /*max-width: 1000px;*/
+  /*align-items: flex-start;*/
+  max-width: 1000px;
   margin: auto;
-  padding: 10rem; */
+  padding: 10rem; 
 }
 
 .sidebar {
@@ -93,17 +93,21 @@ details[open] summary {
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
+    max-width: 100%;   /* ensure it uses full width on mobile */
+    padding: 0 1rem;   /* add slight horizontal padding on mobile */
   }
 
   .sidebar {
-    flex: none;
     width: 100%;
-    margin-right: 0;
-    margin-bottom: 1.5rem; /* spacing between sidebar and content on mobile */
-    text-align: center; /* optional, center items on mobile */
+    padding-right: 0;
+    border-right: none;
+    border-bottom: 1px solid #ccc; /* to separate on mobile */
+    margin-bottom: 1.5rem;
+    text-align: center;
   }
 
   .content {
     width: 100%;
+    padding-left: 0;
   }
 }
