@@ -6,7 +6,7 @@
   <summary onclick="event.stopPropagation();">
     Local Effects of Bypassing Zoning Regulations, with
     <a href="https://noemiesportiche.netlify.app/" target="_blank">Noémie Sportiche</a>
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906689" target="_blank">SSRN link</a>]
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906689" target="_blank">SSRN link</a>], Revise and Resubmit, <em>American Economic Journal: Applied Economics</em>
     
     <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 0.5em">
     Abstract (click to expand)
