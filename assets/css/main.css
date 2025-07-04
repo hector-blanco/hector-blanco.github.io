@@ -8,9 +8,10 @@ body {
 
 .container {
   display: flex;
-  max-width: 1000px;
+  align-items: flex-start;
+  /*max-width: 1000px;*/
   margin: auto;
-  padding: 2rem;
+  padding: 10rem; */
 }
 
 .sidebar {
@@ -25,6 +26,7 @@ body {
   width: 90%;
   height: auto;
   /* border-radius: 50%; */ /* <-- disable this */
+  display: block;
   margin-bottom: 1rem;
 }
 
@@ -84,4 +86,24 @@ details > *:not(summary) {
 
 details[open] summary {
     margin-bottom: 0.1em; /* reduce space between summary and content */
+}
+
+/* For phone */
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    flex: none;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 1.5rem; /* spacing between sidebar and content on mobile */
+    text-align: center; /* optional, center items on mobile */
+  }
+
+  .content {
+    width: 100%;
+  }
 }
