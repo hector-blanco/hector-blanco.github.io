@@ -10,7 +10,7 @@ body {
   display: flex;
   /*align-items: flex-start;*/
   max-width: 1000px;
-  margin: auto;
+  margin: 10rem auto 0 auto;
   padding: 0 10rem; 
 }
 
