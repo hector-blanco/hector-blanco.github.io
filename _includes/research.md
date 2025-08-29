@@ -4,10 +4,13 @@
 
 <details style="margin-bottom: 0.5em">
   <summary onclick="event.stopPropagation();">
-    Local Effects of Bypassing Zoning Regulations, with
+    There Goes the Neighborhood? The Local Impacts of State Policies that Override Municipal Zoning, with
     <a href="https://noemiesportiche.netlify.app/" target="_blank">Noémie Sportiche</a>
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906689" target="_blank">SSRN link</a>], Revise and Resubmit, <em>American Economic Journal: Applied Economics</em>
     
+    <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 0.5em">
+    [Previously circulated under the title "Local Effects of Bypassing Zoning Regulations"]
+    </p>
     <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 0.5em">
     Abstract (click to expand)
     </p>
@@ -52,7 +55,7 @@ Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](h
 
 Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) 
 
-The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Noémie Sportiche](https://noemiesportiche.netlify.app/) and [David M. Cutler](https://scholar.harvard.edu/cutler/home)) \
+The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David M. Cutler](https://scholar.harvard.edu/cutler/home), and Sabhya Gupta) \
 <sub> *Awarded Russell Sage Foundation Grant* </sub>
 
 
