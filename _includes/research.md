@@ -21,6 +21,21 @@
   </p>
 </details>
 
+
+<details>
+  <summary onclick="event.stopPropagation();">
+    The Price of Acceptance: Landlord Participation and Price Setting under Housing Vouchers, with
+    <a href="https://www.jaeheesong.com/" target="_blank">Jaehee Song</a>
+    
+    <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 1em">
+    Abstract (click to expand)
+    </p>
+  </summary>
+  <p style="font-size: 0.85em; margin-top: 0.1em;">
+    We study how the design of rental subsidies shapes landlord behavior in the Housing Choice Voucher (HCV) program, the largest rental assistance program in the United States. We focus on how the program's rent ceiling, known as the payment standard, shapes landlords' price-setting and tenant selection decisions, which in turn affect the neighborhood outcomes of voucher holders and the program's overall cost. Combining administrative data on all voucher holders with nationwide rental listings, we document bunching patterns in both contract and listed rents at payment standards. We then apply bunching estimators to disentangle the motivations behind landlord pricing behavior. Additionally, we examine potential "overcharging", in which landlords raise rents to the payment standard or above listed prices to capture additional subsidy. Finally, we assess how these behaviors vary across neighborhood contexts. Our findings underscore the importance of subsidy design in shaping landlord participation, price-setting practices, and the overall effectiveness of the HCV program.
+  </p>
+</details>
+
 <details>
   <summary onclick="event.stopPropagation();">
     Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, with
