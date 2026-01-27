@@ -6,7 +6,7 @@
   <summary onclick="event.stopPropagation();">
     There Goes the Neighborhood? The Local Impacts of State Policies that Override Municipal Zoning, with
     <a href="https://noemiesportiche.netlify.app/" target="_blank">Noémie Sportiche</a>
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906689" target="_blank">SSRN link</a>], Revise and Resubmit, <em>American Economic Journal: Applied Economics</em>
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4906689" target="_blank">SSRN link</a>], Conditionally Accepted, <em>American Economic Journal: Applied Economics</em>
     
     <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 0.5em">
     [Previously circulated under the title "Local Effects of Bypassing Zoning Regulations"]
@@ -36,6 +36,21 @@
   </p>
 </details>
 
+
+<details>
+  <summary onclick="event.stopPropagation();">
+    New Deal Public Housing and Racial Segregation in U.S. Cities, with
+    <a href="https://www.lucaperdoni.com/" target="_blank">Luca Perdoni</a>
+    
+    <p style="font-size: 0.85em; margin-top: 0.5em; margin-bottom: 1em">
+    Abstract (click to expand)
+    </p>
+  </summary>
+  <p style="font-size: 0.85em; margin-top: 0.1em;">
+    Racial residential segregation in U.S. cities rose sharply during the first half of the twentieth century. We study whether early federal public housing contributed to this rise by examining the first projects built by the Public Works Administration in the mid-1930s, most of which were racially designated. Using newly assembled data on project locations linked to full-count Census records from 1910 to 1950 and comparing built to planned-but-not-built projects, we find that public housing reinforced the racial composition of project sites but had little effect on surrounding neighborhoods. The results suggest that early public housing played a limited role in shaping neighborhood-level segregation.
+  </p>
+</details>
+
 <details>
   <summary onclick="event.stopPropagation();">
     Discrimination Against Housing Vouchers: Evidence from Online Rental Listings, with
@@ -52,7 +67,7 @@
 </details>
 
 ### *Publications*
-Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) \[[Link](https://doi.org/10.1162/rest.a.258)\] \[[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159297)\], *The Review of Economics and Statistics*, Accepted <br> <sub> Coverage: [GLA Housing](https://www.london.gov.uk/media/102314/download), [Nada Es Gratis](https://nadaesgratis.es/admin/son-los-edificios-de-renta-mixta-la-solucion-a-los-problemas-de-la-vivienda-publica) </sub> 
+Knocking it Down and Mixing it Up: The Impact of Public Housing Regenerations (with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri)) \[[Link](https://doi.org/10.1162/rest.a.258)\] \[[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159297)\], *The Review of Economics and Statistics*, Accepted <br> <sub> Coverage: [GLA Housing](https://www.london.gov.uk/media/102314/download), [Nada Es Gratis](https://nadaesgratis.es/admin/son-los-edificios-de-renta-mixta-la-solucion-a-los-problemas-de-la-vivienda-publica) </sub> 
 <br>
 <br>
 Can Fair Share Policies Expand Neighborhood Choice? Evidence from Bypassing Exclusionary Zoning under Massachusetts Chapter 40B (with [N. Sportiche](https://noemiesportiche.netlify.app/), [D. M. Cutler](https://scholar.harvard.edu/cutler/home), [M. Daepp](http://www.madeleinedaepp.com/), and E. M. Graves), *Housing Policy Debate*, 35(2), 210–242, 2025 \[[Link](https://www.tandfonline.com/doi/full/10.1080/10511482.2024.2320131)\] <br>
@@ -66,8 +81,6 @@ Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, *Regiona
 
 Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) 
 
-Segregated Welfare: The Effects of Federal Public Housing, with [Luca Perdoni](https://www.lucaperdoni.com/) 
-
 Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) 
 
 The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Evidence from Housing Lotteries (with [Noémie Sportiche](https://noemiesportiche.netlify.app/), [David M. Cutler](https://scholar.harvard.edu/cutler/home), and Sabhya Gupta) \
@@ -75,4 +88,7 @@ The Impact of Massachusetts' Chapter 40B on Affordable Housing Beneficiaries: Ev
 
 
 ### *Policy Work/Other Writing*
+
+Exploring the Feasibility of Linking Eviction Records to Administrative Databases for HUD's Housing Choice Voucher Program (with [Ellie Lochhead](https://sites.google.com/view/ellielochhead/research?authuser=0), Ingrid Gould Ellen, and Katherine O'Regan), *U.S. Department of Housing and Urban Development Office of Policy Development and Research* [forthcoming]
+
 The Impact of Public Housing on Neighborhoods: Lessons from the United States and the United Kingdom, [*IEB Report 4/2024: "What Can We Do to Make Rentals More Affordable?"*](https://ieb.ub.edu/en/publication/ieb-report-4-2024-el-problema-del-precio-del-alquiler-que-se-puede-hacer/) 
