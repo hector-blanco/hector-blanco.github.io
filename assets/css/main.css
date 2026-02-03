@@ -6,6 +6,16 @@ body {
   margin: 0;
 }
 
+/* space between lines */
+p {
+  margin: 0.5em 0em;
+}
+
+/* space between header and text */
+h3 {
+  margin-bottom: 0.4em;  /* try 0.2–0.5em */
+}
+
 .container {
   display: flex;
   /*align-items: flex-start;*/
@@ -54,7 +64,7 @@ body {
 }
 
 a {
-  color: #007acc !important;
+  color: #3457D5 !important;
   text-decoration: none;
 }
 
