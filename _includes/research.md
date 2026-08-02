@@ -5,6 +5,21 @@
     [Click for abstracts]
 </p>
 
+
+<details style="margin-bottom: 0.5em">
+  <summary onclick="event.stopPropagation();">
+    Neighborhood Change and Local Economic Activity, with
+    <a href="https://sites.google.com/view/lorenzoneri" target="_blank">Lorenzo Neri</a>
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7210898" target="_blank">SSRN Link</a>]
+    
+  </summary>
+  <p style="font-size: 0.85em; margin-top: 0.1em;">
+    We study how neighborhood change shapes local business demographics and employment. We use the regeneration of London public housing into mixed-income housing as a natural experiment that led to a large influx of more affluent households. In a difference-indifferences design comparing nearby businesses to those located farther away, we find that regenerations shift business composition-in both counts and employment-away from small local shops and toward larger general retail establishments and dining services that cater to the new residents. While we find no effect on total local employment on average, employment does increase in the areas most disadvantaged at baseline, suggesting that neighborhood change can expand local employment opportunities in these areas.
+    <br>
+  </p>
+</details>
+
+
 <details style="margin-bottom: 0.5em;">
   <summary onclick="event.stopPropagation();">
     New Deal Public Housing and Racial Segregation in U.S. Cities, with
@@ -67,8 +82,6 @@ Pecuniary Effects of Public Housing Demolitions: Evidence from Chicago, *Regiona
 
 
 ### Work in Progress
-
-Neighborhood Change and Local Economic Activity, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) 
 
 Spillover Effects from Mandatory Inclusionary Zoning, with [Lorenzo Neri](https://sites.google.com/view/lorenzoneri) 
 
