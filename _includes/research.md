@@ -5,6 +5,18 @@
     [Click for abstracts]
 </p>
 
+<details style="margin-bottom: 0.5em">
+  <summary onclick="event.stopPropagation();">
+    How In-Kind Transfer Design Shapes Supply Incentives: Evidence from U.S. Housing Vouchers, with
+    <a href="https://www.jaeheesong.com/" target="_blank">Jaehee Song</a>
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7261300" target="_blank">SSRN Link</a>]
+    
+  </summary>
+  <p style="font-size: 0.85em; margin-top: 0.1em;">
+    Many safety-net programs deliver in-kind benefits through private providers, and program design determines who participates and at what price. We study landlord participation and pricing decisions in the U.S. Housing Choice Voucher program, linking voucher administrative data to national rental listings and to a new panel of the program's rent ceilings. We show that landlords are more likely to participate and to explicitly target voucher holders in high-poverty neighborhoods and that they adjust rents substantially toward the program's rent ceiling between listing and contracting. We estimate a model of landlord behavior and show that these price adjustments sustain participation. Participation is costly, markups below the ceiling offset part of the cost, and concessions above it reveal landlords' willingness to pay for the program's payment guarantee. Reforms paying landlords only where the ceiling binds deliver more voucher leases per dollar than unconditional transfers, and targeted ceiling increases expand neighborhood access most cost-effectively.
+    <br>
+  </p>
+</details>
 
 <details style="margin-bottom: 0.5em">
   <summary onclick="event.stopPropagation();">
@@ -41,17 +53,6 @@
   <p style="font-size: 0.85em; margin-top: 0.1em;">
     Over the past half-century, housing assistance in the U.S. has shifted from direct public provision toward provision through private markets, culminating in the Rental Assistance Demonstration (RAD) program, which has converted over 200,000 public housing units to project-based Section 8 private subsidies since 2014. We examine whether this shift toward private provision changes program targeting, as measured by tenant composition. Using nationwide administrative data from HUD and a difference-in-differences design that exploits plausibly exogenous variation in the timing of RAD conversions, we find that RAD leads to lower-income households living in converted developments over time. We decompose this effect into three mechanisms: lower income eligibility thresholds under Section 8, manager-driven responses, and tenant self-targeting. While eligibility changes contribute to the main result, focusing on incumbent households - who are unaffected by eligibility rule changes - reveals that the remaining two channels also contribute to the result: higher-income incumbents are more likely to exit converted developments over time. We provide suggestive evidence that higher-income incumbents are more likely to take up the tenant-based voucher option offered by RAD and use it to move to lower-poverty neighborhoods, and that take up of the voucher is more likely at developments controlled by housing authorities rather than private managers.
     <br>
-  </p>
-</details>
-
-<details style="margin-bottom: 0.5em;">
-  <summary onclick="event.stopPropagation();">
-    The Price of Acceptance: Landlord Participation and Price Setting under Housing Vouchers, with
-    <a href="https://www.jaeheesong.com/" target="_blank">Jaehee Song</a>
-    
-  </summary>
-  <p style="font-size: 0.85em; margin-top: 0.1em;">
-    We study how the design of rental subsidies shapes landlord behavior in the Housing Choice Voucher (HCV) program, the largest rental assistance program in the United States. We focus on how the program's rent ceiling, known as the payment standard, shapes landlords' price-setting and tenant selection decisions, which in turn affect the neighborhood outcomes of voucher holders and the program's overall cost. Combining administrative data on all voucher holders with nationwide rental listings, we document bunching patterns in both contract and listed rents at payment standards. We then apply bunching estimators to disentangle the motivations behind landlord pricing behavior. Additionally, we examine potential "overcharging", in which landlords raise rents to the payment standard or above listed prices to capture additional subsidy. Finally, we assess how these behaviors vary across neighborhood contexts. Our findings underscore the importance of subsidy design in shaping landlord participation, price-setting practices, and the overall effectiveness of the HCV program.
   </p>
 </details>
 
